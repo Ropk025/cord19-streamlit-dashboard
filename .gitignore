@@ -1,0 +1,4 @@
+data/metadata.csv
+*.sqlite3
+*.env
+__pycache__/
